@@ -36,6 +36,8 @@ type //$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
    { T_void                           } P_void               = Pointer;     PP_void               = PPointer;      /////                 void
 
      T_HANDLE             = THandle;    P_HANDLE             = PHandle;
+     T_HINSTANCE          = HINST;
+     T_HWND               = HWND;
 
      T_size_t             = SIZE_T;     P_size_t             = PSIZE_T;
 
