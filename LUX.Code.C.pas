@@ -52,8 +52,8 @@ type //$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
      T_int64_t            = Int64;      P_int64_t            = PInt64;
      T_uint64_t           = UInt64;     P_uint64_t           = PUInt64;
 
-     T_intptr_t           = IntPtr;
-     T_uintptr_t          = UIntPtr;
+     T_intptr_t           = IntPtr;     P_intptr_t           = PIntPtr;
+     T_uintptr_t          = UIntPtr;    P_uintptr_t          = PUIntPtr;
 
      //$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$【レコード】
 
