@@ -25,7 +25,7 @@ type //$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
      T_unsigned_long_int  = LongWord;   P_unsigned_long_int  = PLongWord; { PP_unsigned_long_int  = PPLongWord;  } /////  unsigned  long int
      T_signed             = Longint;    P_signed             = PLongint;  { PP_signed             = PPLongint;   } /////    signed
      T_unsigned           = LongWord;   P_unsigned           = PLongWord; { PP_unsigned           = PPLongWord;  } /////  unsigned
-     T_int                = Longint;    P_int                = PLongint;  { PP_int                = PPLongint;   } /////                 int
+     T_int                = Longint;    P_int                = PLongint;    PP_int                = PPLongint;     /////                 int
      T_signed_int         = Longint;    P_signed_int         = PLongint;  { PP_signed_int         = PPLongint;   } /////    signed       int
      T_unsigned_int       = LongWord;   P_unsigned_int       = PLongWord; { PP_unsigned_int       = PPLongWord;  } /////  unsigned       int
      T___int64            = Int64;      P___int64            = PInt64;    { PP___int64            = PPInt64;     } /////                 __int64
